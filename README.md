@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 <!--
-**I am Abduallah ** ✨Computer Engineer✨
+**I am Abduallah ** ✨a Computer Engineer✨
 
 - 🔭 I’m currently working as a Front-End Web Developer
 - 🌱 I’m currently learning ... modern frameworks like React and Vue Also,  AI and ML
