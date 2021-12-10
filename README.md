@@ -22,5 +22,4 @@ how to build strong and caring relationships based on trust, understanding and i
 I also work as hard as I can until I reach a stage of balance which I feel stable and have a sense of harmony in my life.
 Balance is an important thing in our lives, even in the simplest things, time for rest,time for work  etc .
 
-
 -->
