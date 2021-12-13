@@ -1,7 +1,7 @@
 ### Hi There 👋 It is Abduallah 
 
 - 🔭 I’m currently working as a Front-End Web Developer
-- 🌱 I’m currently learning ... modern frameworks like React and Vue Also,  AI and ML
+- 🌱 I’m currently learning modern frameworks like React and Vue Also,  AI and ML
 - 👯 I’m looking to collaborate with a new communities that make an impact in our life 
 - 🤔 I’m looking for help ...
 - 💬 Ask me about Software Development 
